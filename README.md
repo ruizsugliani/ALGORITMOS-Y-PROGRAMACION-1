@@ -1,6 +1,6 @@
 # TETRIS
 
- **Este fue el resultado de los TP 1 y 2 en la materia algoritmos y programación**
+ **Este fue el resultado de los TP 1 y 2 en la materia Algoritmos y Programación 1**
  **donde usé los conocimientos sobre estructuras de datos más basicas en Python.**
  **La idea principal se basa en una grilla que se actualiza constantemente debido**
  **a piezas en movimiento que colisionan o simplemente caen hasta hacerlo.**
